@@ -1,0 +1,181 @@
+Suggested for this repository
+Simple workflow
+By GitHub
+
+Simple workflow logo
+Start with a file with the minimum necessary structure.
+
+Deployment
+View all
+Deploy Node.js to Azure Web App
+By Microsoft Azure
+
+Deploy Node.js to Azure Web App logo
+Build a Node.js project and deploy it to an Azure Web App.
+
+Deployment
+Deploy to Amazon ECS
+By Amazon Web Services
+
+Deploy to Amazon ECS logo
+Deploy a container to an Amazon ECS service powered by AWS Fargate or Amazon EC2.
+
+Deployment
+Build and Deploy to GKE
+By Google Cloud
+
+Build and Deploy to GKE logo
+Build a docker container, publish it to Google Container Registry, and deploy to GKE.
+
+Deployment
+Terraform
+By HashiCorp
+
+Terraform logo
+Set up Terraform CLI in your GitHub Actions workflow.
+
+Deployment
+Deploy to Alibaba Cloud ACK
+By Alibaba Cloud
+
+Deploy to Alibaba Cloud ACK logo
+Deploy a container to Alibaba Cloud Container Service for Kubernetes (ACK).
+
+Deployment
+Deploy to IBM Cloud Kubernetes Service
+By IBM
+
+Deploy to IBM Cloud Kubernetes Service logo
+Build a docker container, publish it to IBM Cloud Container Registry, and deploy to IBM Cloud Kubernetes Service.
+
+Deployment
+Tencent Kubernetes Engine
+By Tencent Cloud
+
+Tencent Kubernetes Engine logo
+This workflow will build a docker container, publish and deploy it to Tencent Kubernetes Engine (TKE).
+
+Deployment
+OpenShift
+By Red Hat
+
+OpenShift logo
+Build a Docker-based project and deploy it to OpenShift.
+
+Deployment
+Security
+View all
+CodeQL Analysis
+By GitHub
+
+Security analysis from GitHub for C, C++, C#, Go, Java, JavaScript, TypeScript, Python, Ruby, Kotlin and Swift developers.
+
+Code scanning
+Anchore Grype Vulnerability Scan
+By Anchore
+
+Anchore Grype Vulnerability Scan logo
+Produce source and container vulnerability reports based on Anchore's open source Grype tool.
+
+Code scanning
+OSSAR
+By GitHub
+
+Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+
+Code scanning
+Debricked Scan
+By OpenText
+
+Debricked Scan logo
+Integrate with Debricked's state of the art AI-powered Software Composition Analysis to automate your security.
+
+Code scanning
+Continuous integration
+View all
+CMake based, multi-platform projects
+By GitHub Actions
+
+CMake based, multi-platform projects logo
+Build and test a CMake based project on multiple platforms.
+
+C
+Grunt
+By GitHub Actions
+
+Grunt logo
+Build a NodeJS project with npm and grunt.
+
+JavaScript
+Ruby
+By GitHub Actions
+
+Ruby logo
+Build and test a Ruby project with Rake.
+
+Ruby
+Publish Docker Container
+By GitHub Actions
+
+Publish Docker Container logo
+Build, test and push Docker image to GitHub Packages.
+
+Dockerfile
+Automation
+Greetings
+By GitHub Actions
+
+Greets users who are first time contributors to the repo
+
+Automation
+Stale
+By GitHub Actions
+
+Checks for stale issues and pull requests
+
+Automation
+Manual workflow
+By GitHub Actions
+
+Simple workflow that is manually triggered.
+
+Automation
+Labeler
+By GitHub Actions
+
+Labels pull requests based on the files changed
+
+Automation
+Pages
+View all
+Jekyll
+By GitHub Actions
+
+Jekyll logo
+Package a Jekyll site.
+
+NuxtJS
+By GitHub Actions
+
+NuxtJS logo
+Package a NuxtJS site.
+
+Astro
+By GitHub Actions
+
+Astro logo
+Deploy an Astro site.
+
+Astro
+Hugo
+By GitHub Actions
+
+Hugo logo
+Package a Hugo site.
+
+Browse all categories
+Deployment
+Security
+Continuous integration
+Automation
+P
